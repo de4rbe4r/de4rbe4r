@@ -18,7 +18,6 @@
 ### :man_technologist: About Me :
 I am a beginning developer
 - 26 years old
-- I live in Russia, Samara
 - Actively engaged in the study of writing desktop and web applications
 
 ---
