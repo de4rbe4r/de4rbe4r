@@ -17,7 +17,7 @@
 ---
 ### :man_technologist: About Me :
 I am a beginning developer
-- 26 years old
+- 27 years old
 - Actively engaged in the study of writing desktop and web applications
 
 ---
